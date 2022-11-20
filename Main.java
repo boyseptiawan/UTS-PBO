@@ -7,7 +7,7 @@ public class Main {
             while (true) {
                 System.out.println("Menu")
                 System.out.println("1. Kubus");
-                System.out.println("6. Exit");
+                System.out.println("2. Exit");
                 System.out.print("Pilih: ");
                 int pilihan = input.nextInt();
                 switch (pilihan) {
